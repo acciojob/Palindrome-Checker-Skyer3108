@@ -22,4 +22,5 @@ function palindrome(str){
 	
 
 }
-module.exports = palindrome
+const str='race car'
+palindrome(str)
